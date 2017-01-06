@@ -70,7 +70,7 @@
             <div class="form-group">
                 <label class="col-md-4 control-label" for=""></label>
                 <div class="col-md-8">
-                    {{Form::submit('Create User', array('class' => 'btn btn-primary'))}}
+                    {{Form::submit('Edit User', array('class' => 'btn btn-primary'))}}
                 </div>
             </div>
         </div>
